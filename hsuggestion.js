@@ -1,0 +1,1 @@
+let suggestions=["226010 Sahara Hospital","226010 Metro Hospital","226011 Ajanta Hospital","226011 Avadh Hospitl"];
